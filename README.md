@@ -1,4 +1,3 @@
-# customer-churn-analysis
 # Customer Churn Analysis
 
 ## 📌 Project Overview
