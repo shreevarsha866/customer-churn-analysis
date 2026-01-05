@@ -8,13 +8,12 @@ This project analyzes telecom customer data to identify churn patterns and predi
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn
 - Power BI
-- Streamlit
 
 ## 📊 Key Features
 - Data cleaning and exploratory data analysis (EDA)
 - Feature engineering (tenure bands, contract types)
 - Churn prediction using Logistic Regression and Random Forest
-- Interactive dashboards using Power BI and Streamlit
+- Interactive dashboards using Power BI
 
 ## 📈 Results
 - Logistic Regression Accuracy: 93%
